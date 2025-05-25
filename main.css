@@ -1,0 +1,16 @@
+html {
+    font-size: 5vh;
+}
+
+ul {
+    margin: auto;
+    font-size: 3vh;
+}
+
+.title {
+    text-align: center;
+}
+
+.important {
+    font-size: 2em;
+}
